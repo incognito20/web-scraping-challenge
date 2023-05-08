@@ -64,10 +64,10 @@ The high level steps of the code are:
 <li><em>Determined in cell Part 2, cell 8.</em></li>
 
 <li>How many Martian (and not Earth) days worth of data exist in the scraped dataset?</li> 
-<li></em>1867 as determined in Part 2, cell 9.</em></li>
+<li><em>1867 as determined in Part 2, cell 9.</em></li>
 
 <li>What are the coldest and the warmest months on Mars (at the location of Curiosity)?</li>
-<li></em>The third is the coldest and the eighth is the warmest month as determined in Part 2, cell 13 of the analysis.</em></li>
+<li><em>The third is the coldest and the eighth is the warmest month as determined in Part 2, cell 13 of the analysis.</em></li>
 
 <li>Which months have the lowest and the highest atmospheric pressure on Mars?</li> 
 <li><em>The sixth month is the lowest and the ninth month is the highest based on results in Part 2, cells 14 and 15.</em></li>
