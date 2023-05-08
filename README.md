@@ -20,15 +20,15 @@ In Part 1 of this challenge the code scrapes titles and preview text from Mars N
 
 The high level steps of the code are:
 
-#Create a Beautiful Soup object and use it to extract text elements from the website.
+Create a Beautiful Soup object and use it to extract text elements from the website.
 
-#Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
+Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
 
-#Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following:
+Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following:
 
-#Store all the dictionaries in a Python list.
+Store all the dictionaries in a Python list.
 
-#Print the list in your notebook
+Print the list in your notebook
 
 
 
@@ -61,19 +61,19 @@ The high level steps of the code are:
 ***Using this dataset, the following questions were asked (with answers or pointers to answers):***
 <ul>
 <li>How many months exist on Mars?</li>
-<li>*Determined in cell Part 2, cell 8.*</li>
+<li><em>Determined in cell Part 2, cell 8.</em></li>
 
 <li>How many Martian (and not Earth) days worth of data exist in the scraped dataset?</li> 
-<li>*1867 as determined in Part 2, cell 9.*</li>
+<li></em>1867 as determined in Part 2, cell 9.</em></li>
 
 <li>What are the coldest and the warmest months on Mars (at the location of Curiosity)?</li>
-<li>*The third is the coldest and the eighth is the warmest month as determined in Part 2, cell 13 of the analysis.*</li>
+<li></em>The third is the coldest and the eighth is the warmest month as determined in Part 2, cell 13 of the analysis.</em></li>
 
 <li>Which months have the lowest and the highest atmospheric pressure on Mars?</li> 
-<li>*The sixth month is the lowest and the ninth month is the highest based on results in Part 2, cells 14 and 15.*</li>
+<li><em>The sixth month is the lowest and the ninth month is the highest based on results in Part 2, cells 14 and 15.</em></li>
 
 <li>About how many terrestrial (Earth) days exist in a Martian year?</li> 
-<li>*Using Part 2, cell 17 to visually measure from the plotted data it looks like the it is about 680 days.*</li>
+<li><em>Using Part 2, cell 17 to visually measure from the plotted data it looks like the it is about 680 days.</em></li>
 </ul>
 
 ### Works Cited
